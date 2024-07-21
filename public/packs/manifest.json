@@ -1,0 +1,64 @@
+{
+  "UserPage.js": "/packs/js/UserPage-954fa220e62aa0442c52.js",
+  "UserPage.js.map": "/packs/js/UserPage-954fa220e62aa0442c52.js.map",
+  "application.js": "/packs/js/application-984f9b21bb07586dbda9.js",
+  "application.js.map": "/packs/js/application-984f9b21bb07586dbda9.js.map",
+  "entrypoints": {
+    "application": {
+      "js": [
+        "/packs/js/application-984f9b21bb07586dbda9.js"
+      ],
+      "js.map": [
+        "/packs/js/application-984f9b21bb07586dbda9.js.map"
+      ]
+    },
+    "home": {
+      "js": [
+        "/packs/js/home-4ae240ba64c18f8423dc.js"
+      ],
+      "js.map": [
+        "/packs/js/home-4ae240ba64c18f8423dc.js.map"
+      ]
+    },
+    "request": {
+      "js": [
+        "/packs/js/request-814f086bfd40a38741ef.js"
+      ],
+      "js.map": [
+        "/packs/js/request-814f086bfd40a38741ef.js.map"
+      ]
+    },
+    "tweets": {
+      "js": [
+        "/packs/js/tweets-95e05d366360dd880476.js"
+      ],
+      "js.map": [
+        "/packs/js/tweets-95e05d366360dd880476.js.map"
+      ]
+    },
+    "UserPage": {
+      "js": [
+        "/packs/js/UserPage-954fa220e62aa0442c52.js"
+      ],
+      "js.map": [
+        "/packs/js/UserPage-954fa220e62aa0442c52.js.map"
+      ]
+    },
+    "utils": {
+      "js": [
+        "/packs/js/utils-c58302075167b70cb7b3.js"
+      ],
+      "js.map": [
+        "/packs/js/utils-c58302075167b70cb7b3.js.map"
+      ]
+    }
+  },
+  "home.js": "/packs/js/home-4ae240ba64c18f8423dc.js",
+  "home.js.map": "/packs/js/home-4ae240ba64c18f8423dc.js.map",
+  "request.js": "/packs/js/request-814f086bfd40a38741ef.js",
+  "request.js.map": "/packs/js/request-814f086bfd40a38741ef.js.map",
+  "tweets.js": "/packs/js/tweets-95e05d366360dd880476.js",
+  "tweets.js.map": "/packs/js/tweets-95e05d366360dd880476.js.map",
+  "utils.js": "/packs/js/utils-c58302075167b70cb7b3.js",
+  "utils.js.map": "/packs/js/utils-c58302075167b70cb7b3.js.map"
+}
